@@ -1,0 +1,2 @@
+INSERT INTO disturb (route_id, d_type, d_message, start_at, end_at) VALUES (1068, 'Mouvement social', 'Mouvement social à partir du 18 janvier jusqu au 22  janvier 2022', '2022-01-18', '2022-01-22');
+INSERT INTO disturb (route_id, d_type, d_message, start_at, end_at) VALUES (1055, 'Travaux nocturnes', 'En raison de travaux nocturnes, votre ligne sera perturbé à partir du 2 février jusqu au 28 février 2022', '2022-02-02', '2022-02-28');
